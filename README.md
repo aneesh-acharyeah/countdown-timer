@@ -22,3 +22,11 @@ To run this project locally, you need the following:
 1. Clone the repository:
    ```bash
    git clone https://github.com/aneesh-acharyeah/countdown-timer.git
+
+2. Install dependencies
+   ```bash
+   npm install
+
+3. Run the app
+   ```bash
+   npm start
